@@ -1,0 +1,13 @@
+.list_row{
+    border: 1px solid;
+    width: 25%;
+    background-color: lightpink;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+tr {
+    padding: 10%;
+}
